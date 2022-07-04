@@ -1,0 +1,26 @@
+.Testimonio {
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: 40px;
+    box-shadow: 2px 2px 2px 1px rgba(112, 112, 112, 0.2);
+}
+
+.nombre {
+    font-size: 18px;
+}
+
+.cargo {
+    font-size: 14px;
+}
+
+.testimonio {
+    text-align: justify;
+    margin: 0 40px;
+}
+
+p {
+    margin: 10px 0;
+}
